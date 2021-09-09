@@ -4,7 +4,7 @@ Sales Report  in power bi
 ########
 1)Problem Statment:A Sales Manager gives reports to his superiors by a hand written file /or in verbal form .But the higher Managment wants something interactive in easy to understand form .so we have to build a dashboard using raw data in power bi .
 
-2)first we have to lean data using SQL quiries .
+2)first we have to clean data using SQL quiries .
 
 3)Then perform ETL and data Wrangling in power bi .
 
